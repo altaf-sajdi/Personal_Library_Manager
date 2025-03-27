@@ -1,0 +1,5 @@
+The Great Gatsby|F. Scott Fitzgerald|1925|Fiction|True|2024-03-20
+1984|George Orwell|1949|Dystopian|False|2024-03-20
+To Kill a Mockingbird|Harper Lee|1960|Fiction|True|2024-03-20
+The Hobbit|J.R.R. Tolkien|1937|Fantasy|False|2024-03-20
+Pride and Prejudice|Jane Austen|1813|Romance|True|2024-03-20 
